@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    position: relative;
+    bottom: 65px;
+    font-size: 50px;
+
+    color: black;
+}
+
+
+
+img {
+    width: 60px;
+}
+
+
+
+header {
+    background-color: violet;
+    height: 130px;
+   
+}
+
+
+footer   {
+    background-color: violet;
+    padding: 10px;
+}
+
+
+footer p {
+    background-color: white;
+    width: 200px;
+}
+
+
+
+
+main {
+    padding: 10px;
+    background-color: lawngreen;
+}
+
+
+iframe:hover {
+    width: 500px;
+    height: 400px;
+
+}
+
+
+
+h1:hover {
+    border: 3px dashed green;
+    width: 220px;
+    position: relative;
+    left: 180px;
+}
